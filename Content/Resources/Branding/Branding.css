@@ -1,0 +1,8 @@
+/* MadCap-Branding resources:/English/Templates/Projects/Empty.flprj/ */
+
+:root 
+{
+	--Brand1: #076685;
+	--FontFamily: Arial, Avenir, Myriad;
+	--LogoImage: url('../Images/Logo.png');
+}
